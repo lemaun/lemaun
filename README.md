@@ -123,32 +123,6 @@ Internal enterprise apps for operational excellence and compliance.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=lemaun&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lemaun&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 💼 What I’m Looking For
-
-I’m interested in roles such as:
-
-- **Senior Full-Stack Engineer**  
-- **Senior Backend Engineer**  
-- **Technical Lead / Feature Owner**  
-
-Ideal environment:
-
-- US-based remote engineering teams  
-- Modern stacks: **TypeScript · Node.js · React · AWS**  
-- Product-focused environments where engineers own the problem  
-- Teams that value architecture, clarity, and shipping meaningful work  
-
----
-
 ## 🌎 Connect with Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/leandrolago/  

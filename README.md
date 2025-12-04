@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em>Open to remote roles with US-based product teams (Senior Full-Stack / Backend).</em>
-</p>
-
 ---
 
 ## 🔍 About Me
